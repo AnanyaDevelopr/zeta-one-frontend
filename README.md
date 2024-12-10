@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Zeta One Panel
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a web-based platform designed to simplify service booking for households and businesses. Users can explore various services, such as electricians, plumbers, cleaning services, and more, and book appointments conveniently. The platform includes features for managing bookings, viewing available categories, and interacting through a user-friendly interface.
 
-## Available Scripts
+## Contributors
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Tech Stack 
 
-### `npm test`
+To create this clone following Tech stack is used.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- HTML
+- Tailwind CSS
+- JavaScript
+- React JS
 
-### `npm run build`
+## Home Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot (1)](https://github.com/user-attachments/assets/efb6622e-efd9-482a-ad5b-9227f4465fd3)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Our Service
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![Screenshot (2)](https://github.com/user-attachments/assets/79043e9e-c2f6-4e58-bf4e-efb3d09fd467)
 
-### `npm run eject`
+## Booking Form
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Screenshot (4)](https://github.com/user-attachments/assets/fea14d17-91a0-448f-be32-b423ab0d24b0)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Bookings
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot (5)](https://github.com/user-attachments/assets/4e0afeb7-3fa7-4434-867e-978c148d8b58)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## To start project
+ clone the project , do npm install and run npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Netlify  : https://zeta-one-panel.netlify.app/
