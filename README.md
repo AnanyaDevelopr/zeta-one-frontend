@@ -2,10 +2,6 @@
 
 This project is a web-based platform designed to simplify service booking for households and businesses. Users can explore various services, such as electricians, plumbers, cleaning services, and more, and book appointments conveniently. The platform includes features for managing bookings, viewing available categories, and interacting through a user-friendly interface.
 
-## Contributors
-
-
-
 
 ## Tech Stack 
 
